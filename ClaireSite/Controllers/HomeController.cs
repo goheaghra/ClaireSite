@@ -15,6 +15,7 @@ namespace ClaireSite.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            // cooment
             _logger = logger;
         }
 
